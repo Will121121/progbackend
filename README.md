@@ -1,2 +1,9 @@
 # progbackend
-Aprendizado de GitHub e GitBash
+
+# Sobre mim
+
+# Expectativa do curso
+
+# O que estou aprendendo
+
+# Meus projetos
